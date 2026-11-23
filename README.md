@@ -4,7 +4,7 @@
 
 A control engineering portfolio project based on a 17-question undergraduate *Linear Control Systems* assignment. It studies a student-specific second-order plant in an actuator-and-sensor feedback configuration. The original MATLAB work is preserved, with additional independently checked model derivation, more consistent reusable MATLAB scripts, numerical figures, and a transparent validation record.
 
-> **Status:** Modeling and baseline analysis are documented. The archive also contains partial original scripts; completion of every design requirement (notably the time/frequency compensators in Q14–17) has **not** been demonstrated. The rebuilt scripts have not been run in MATLAB here.
+> **Status:** Modeling and baseline analysis are documented. The archive also contains partial original scripts; completion of every design requirement (notably the time/frequency compensators in Q14–17) has not been demonstrated.
 
 ## Overview
 
@@ -84,4 +84,4 @@ tests/                   Python numerical consistency checks
 
 ## Attribution and licensing
 
-**Original coursework and MATLAB implementation:** Hannane Ahmadi (`@hanahmdi`). Expanded portfolio documentation and auxiliary checks were prepared separately. The instructor's assignment handout is not redistributed in this repository. No open-source license has been selected.
+Expanded portfolio documentation and auxiliary checks were prepared separately. The instructor's assignment handout is not redistributed in this repository. No open-source license has been selected.
